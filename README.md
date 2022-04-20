@@ -1,7 +1,7 @@
 # MAA106 - Introduction to Numerical Analysis 数值分析导入
 
 ## Professors
-[Maxime Breden](https://sites.google.com/site/maximebreden/)
+- [Maxime Breden](https://sites.google.com/site/maximebreden/)
 
 ## Course Organization
 - 7 lectures (2h) and 7 Tutorials (2h) 28 hours in total with 3 ECTS
