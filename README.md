@@ -1,7 +1,7 @@
 # MAA106 - Introduction to Numerical Analysis 数值分析导入
 
 ## Professors
-[Geoffroy Barrows](https://sites.google.com/site/geoffreybarrows/), [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/)
+[Maxime Breden](https://sites.google.com/site/maximebreden/)
 
 ## Course Organization
 - 7 lectures (2h) and 7 Tutorials (2h) 28 hours in total with 3 ECTS
@@ -18,6 +18,6 @@
 * Chapter 2: polynomial approximation (2 lec, 2 TD)
 * Chapter 3: numerical integration (2 lec, 2 TD)
 
-## 📚 Tools of this course
+## Tools of this course
 JupyterLab, Python, Numpy, matplotlib, mathematical analysis
 
