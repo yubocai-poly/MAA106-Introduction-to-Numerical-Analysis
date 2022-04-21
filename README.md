@@ -142,3 +142,6 @@ plt.show()
 ## Tools of this course
 JupyterLab, Python, Numpy, matplotlib, mathematical analysis
 
+## Copyright
+Copyright by Maxime Breden, Yubo Cai, Ecole Polytechnique
+
