@@ -13,10 +13,26 @@
 
 ## 📚 Arrangement of this course
 
-* Introduction to numerical analysis and introduction to **Numpy** and **matplotlib** (1 lec, 1 TD)
+* Chapter 0: Introduction to numerical analysis and introduction to **Numpy** and **matplotlib** (1 lec, 1 TD)
 * Chapter 1: solving equations of one variable (2 lec, 2 TD)
 * Chapter 2: polynomial approximation (2 lec, 2 TD)
 * Chapter 3: numerical integration (2 lec, 2 TD)
+
+### ✏️  Chapter 0: Introduction to numerical analysis and introduction to **Numpy** and **matplotlib**
+- Machine Number
+- Introduction to numerical analysis
+- Introduction to Numpy and Matplotlib
+
+### ✏️  Chapter 1: solving equations of one variable
+- Convergence / order of convergence
+- Error estimator
+- Stopping criterion
+- the bisection method 二分法
+- Fixed point iterations 定点迭代法
+- The Newton-Raphson method 牛顿二分法
+
+### ✏️  Chapter 2: polynomial approximation
+### ✏️  Chapter 3: numerical integration
 
 ## Tools of this course
 JupyterLab, Python, Numpy, matplotlib, mathematical analysis
