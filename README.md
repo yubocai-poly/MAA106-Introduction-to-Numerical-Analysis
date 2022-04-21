@@ -3,6 +3,8 @@
 ## Professors
 - [Maxime Breden](https://sites.google.com/site/maximebreden/)
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \ pi} = -1" width = "100">
+
 ## Course Organization
 - 7 lectures (2h) and 7 Tutorials (2h) 28 hours in total with 3 ECTS
 
