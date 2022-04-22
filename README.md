@@ -37,7 +37,7 @@ plt.title("The butterfly curve!")
 plt.show()
 ```
 
-![Alt text](img/img0_1.png)
+![Alt text](img/img1_3.png)
 
 
 ### ✏️  Chapter 1: solving equations of one variable
