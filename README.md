@@ -138,7 +138,7 @@ plt.show()
 
 We have the interest rate i formula:
 
-<img src="https://render.githubusercontent.com/render/math?math=f(i) = d \frac{(1+i)^{n_{end}}-1}{i} - S =0 \quad{} \text{ where } \quad{} S=30\,000, \quad{} d=30,\quad{} \text{and} \quad{} n_{end} = 120" width = "700">
+<img src="https://render.githubusercontent.com/render/math?math=f(i) = d \frac{(1 + i)^{n_{end}}-1}{i} - S =0 \quad{} \text{ where } \quad{} S=30\,000, \quad{} d=30,\quad{} \text{and} \quad{} n_{end} = 120" width = "700">
 
 ```python
 S = 30000
