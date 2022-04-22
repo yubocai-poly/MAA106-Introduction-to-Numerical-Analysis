@@ -3,8 +3,6 @@
 ## Professors
 - [Maxime Breden](https://sites.google.com/site/maximebreden/)
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \ pi} = -1" width = "100">
-
 ## Course Organization
 - 7 lectures (2h) and 7 Tutorials (2h) 28 hours in total with 3 ECTS
 
@@ -37,7 +35,7 @@ plt.title("The butterfly curve!")
 plt.show()
 ```
 
-![Alt text](img/img1_3.png)
+<img src="img/img0_1.png" width = "600px" />
 
 
 ### ✏️  Chapter 1: solving equations of one variable
@@ -84,7 +82,7 @@ plt.title('Convergence of the Bisection Method, $f(x) = x^{3} + 2$', fontsize=18
 
 plt.show()
 ```
-![Alt text](img/img1_1.png)
+<img src="img/img1_1.png" width = "600px" />
 
 - Fixed point iterations 定点迭代法
 ```python
@@ -134,9 +132,14 @@ plt.title('Order of convergence', fontsize=15)
 
 plt.show()
 ```
-![Alt text](img/img1_2.png)
+<img src="img/img1_2.png" width = "600px" />
 
 - The Newton-Raphson method 牛顿二分法
+
+We have the interest rate i formula:
+
+<img src="https://render.githubusercontent.com/render/math?math=f(i) = d \frac{(1+i)^{n_{end}}-1}{i} - S =0 \quad{} \text{ where } \quad{} S=30\,000, \quad{} d=30,\quad{} \text{and} \quad{} n_{end} = 120" width = "700">
+
 ```python
 S = 30000
 d = 30
@@ -170,7 +173,7 @@ print('The minimum interest rate is =', i.size)
 print('minimus interest rate =', i[-1])
 ```
 
-![Alt text](img/img1_3.png)
+<img src="img/img1_3.png" width = "600px" />
 
 ### ✏️  Chapter 2: polynomial approximation
 ### ✏️  Chapter 3: numerical integration
