@@ -137,6 +137,40 @@ plt.show()
 ![Alt text](img/img1_2.png)
 
 - The Newton-Raphson method 牛顿二分法
+```python
+S = 30000
+d = 30
+n_end = 120
+
+def function_fund(i):
+    return d*((1+i)**n_end-1)/i-S
+
+# Then we can plot the graph of the state equation of investment fund
+pts = np.linspace(0.027, 0.03, 500)
+fig = plt.figure(figsize=(12, 8))
+plt.plot(pts, function_fund(pts))
+plt.plot(pts, 0*pts, '--k')
+plt.xlabel('interest rate i', fontsize=18)
+plt.ylabel('$f(i)$', fontsize=18)
+plt.title('function $f$ for case study 2', fontsize=18)
+
+plt.show()
+
+# Then we can apply the function bisection2
+
+imin = 0.01
+imax = 0.05
+eps = 1.0e-6
+k_max = 1000
+i = Bisection2(function_fund, imin, imax, k_max, eps)
+print(Bisection2(function_fund, imin, imax, k_max, eps))
+
+print('precision: eps =', eps)
+print('The minimum interest rate is =', i.size)
+print('minimus interest rate =', i[-1])
+```
+
+![Alt text](img/img1_3.png)
 
 ### ✏️  Chapter 2: polynomial approximation
 ### ✏️  Chapter 3: numerical integration
